@@ -10,3 +10,6 @@ jobs:
         run: echo "Tchau! Até a proxima"
       - name: Mostrar Data e hora
         run: date
+      - name: Mostrar quem fez Commit
+        run: echo "O commit foi feito por ${{github.actor}}"
+      
