@@ -8,3 +8,5 @@ jobs:
         run: echo "Ola, aqui é o José!"
       - name: Dizer Adeus
         run: echo "Tchau! Até a proxima"
+      - name: Mostrar Data e hora
+        run: date
