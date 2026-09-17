@@ -7,4 +7,4 @@ jobs:
       - name: Dizer ola
         run: echo "Ola, aqui é o José!"
       - name: Dizer Adeus
-        run: echo "Tchau! Até a proxima
+        run: echo "Tchau! Até a proxima"
